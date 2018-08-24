@@ -1,4 +1,7 @@
-# Luke's build of st - the simple (suckless) terminal
+# Kyle's build of st - the simple (suckless) terminal
+
+This is a fork of [Luke's build](https://github.com/LukeSmithxyz/st) of st. Most of the work (including the rest of the README) is
+his work.
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
