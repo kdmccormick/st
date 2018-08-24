@@ -93,7 +93,7 @@ static const char *colorname[] = {
 	"red3",
 	"green3",
 	"yellow3",
-	"blue2",
+	"#4444ff", // slightly pastel blue
 	"magenta3",
 	"cyan3",
 	"gray90",
@@ -113,7 +113,7 @@ static const char *colorname[] = {
 	/* more colors can be added after 255 to use with DefaultXX */
 	"#cccccc",
 	"#555555",
-	"#030308",
+	"#100310",
 };
 
 
